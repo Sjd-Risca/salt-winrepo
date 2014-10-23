@@ -17,10 +17,10 @@ libreoffice:
     uninstaller: 'http://mirror.catn.com/pub/tdf/libreoffice/stable/4.2.1/win/x86/LibreOffice_4.2.1_Win_x86.msi'
     uninstall_flags: ' /qn'
   4.2.6:
-    installer: 'http://donate.libreoffice.org/home/dl/win-x86/4.2.6/en-US/LibreOffice_4.2.6-secfix_Win_x86.msi'
+    installer: 'http://mirror.catn.com/pub/tdf/libreoffice/stable/4.2.6/win/x86/LibreOffice_4.2.6-secfix_Win_x86.msi'
     full_name: 'Libre Office 4'
     reboot: False
     install_flags: ' /q '
     msiexec: True
-    uninstaller: 'http://donate.libreoffice.org/home/dl/win-x86/4.2.6/en-US/LibreOffice_4.2.6-secfix_Win_x86.msi'
+    uninstaller: 'http://mirror.catn.com/pub/tdf/libreoffice/stable/4.2.6/win/x86/LibreOffice_4.2.6-secfix_Win_x86.msi'
     uninstall_flags: ' /qn'
